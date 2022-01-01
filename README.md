@@ -3,3 +3,4 @@
 <img width="365" alt="Parent Category Outcomes chart" src="https://user-images.githubusercontent.com/95182088/147860124-497a4981-f870-4754-b279-0a66e8cf8cea.png">
 # An Analysis of Kickstarter Campaigns
 Performing analysis on Kickstarter data to uncover trends in plays
+<img width="365" alt="Parent Category Outcomes chart" src="https://user-images.githubusercontent.com/95182088/147860163-260682cb-6d44-4a8c-bd6e-96d128e2dc03.png">
